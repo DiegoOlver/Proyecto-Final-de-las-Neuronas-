@@ -1,5 +1,8 @@
 ## Este proyecto fue posible gracias a a las redes neuronales
 ## Que son las redes neuroanles
+[GitHub Pages](https://www.atriainnovation.com/que-son-las-redes-neuronales-y-sus-funciones/)
+
+
 ## Cuál es su relacion con la tería de grafos
 Incluir imagenes
 
