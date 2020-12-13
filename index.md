@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+## Este proyecto fue posible gracias a a las redes neuronales
+## Que son las redes neuroanles
+## Cuál es su relacion con la tería de grafoas
+Incluir imagenes
+
+
+<img src="https://i.blogs.es/90b90e/650_1000_neural/450_1000.jpg" alt="Red neuronal">
+
+[GitHub](https://www.atriainnovation.com/que-son-las-redes-neuronales-y-sus-funciones/)
+
+![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
+
+
+
+
+![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 
 You can use the [editor on GitHub](https://github.com/DiegoOlver/Proyecto-Final-de-las-Neuronas-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
