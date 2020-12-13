@@ -8,12 +8,7 @@ Incluir imagenes
 
 ![red nuronal](https://www.atriainnovation.com/wp-content/uploads/2019/10/Redes_neuronales_foto.jpg)
 
-![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 
-
-
-
-![Grafo](https://www.atriainnovation.com/wp-content/uploads/2019/10/Redes_neuronales_foto.jpg)
 
 You can use the [editor on GitHub](https://github.com/DiegoOlver/Proyecto-Final-de-las-Neuronas-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
