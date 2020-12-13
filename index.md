@@ -1,7 +1,7 @@
 ## Este proyecto fue posible gracias a a las redes neuronales
 ## Que son las redes neuroanles
-[GitHub Pages](https://www.atriainnovation.com/que-son-las-redes-neuronales-y-sus-funciones/)
-
+[ABRA EL LINK PARA MAS INFORMACION](https://www.atriainnovation.com/que-son-las-redes-neuronales-y-sus-funciones/)
+*Una red neuronal es un grupo interconectado de nodos similar a la vasta red de neuronas en un cerebro biológico. Cada nodo circular representa una neurona artificial y cada flecha representa una conexión desde la salida de una neurona a la entrada de otra. *
 
 ## Cuál es su relacion con la tería de grafos
 Incluir imagenes
